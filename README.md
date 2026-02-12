@@ -13,4 +13,4 @@ git branch -M main (main)
 git remote add origin "link do arquivo"
 git push = envia o arquivo
 git pull = atualizar repositório
-touch = criar um ou mais arquivos vazios
+touch = criar um ou mais arquivos hl
